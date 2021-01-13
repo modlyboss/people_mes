@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: "./",
+  publicPath: "/people_mes/",
   //productionSourceMap: false, //减少包大小，也可以加密源码
   devServer: {
     host:'127.0.0.1',
