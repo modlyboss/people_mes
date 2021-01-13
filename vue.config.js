@@ -1,6 +1,6 @@
 module.exports = {
   publicPath: "/people_mes/dist/",
-  productionSourceMap: false, //减少包大小，也可以加密源码
+  //productionSourceMap: false, //减少包大小，也可以加密源码
   devServer: {
     host:'127.0.0.1',
     port: 8888
